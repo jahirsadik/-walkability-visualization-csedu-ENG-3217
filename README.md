@@ -5,7 +5,7 @@
 
 - We walked a total of **265 kilometers**, which is the distance from Dhaka to Chittagong.
 - We walked for **62 hours**, which is more than **two and a half days**, at an average speed of **4.3 km/h**.
-- We took a total of 1665 photos.
+- We took a total of **1665 photos**.
 - **The Marathon Walker:** Monon (walked a maximum of 19.2 km)
 - **The Journalist:** Abir (took a maximum of 78 photos)
 - **The Passionate Walker:** Radi, Fawwaz, Deeparghya (first group to finish walkability)
