@@ -1,7 +1,7 @@
 # Walkability-Visualization-CSEDU-ENG-3217
 
 
-# Walkability Facts
+## Walkability Facts
 
 - We walked a total of 265 kilometers, which is the distance from Dhaka to Chittagong.
 - We walked for **62 hours**, which is more than **two and a half days**, at an average speed of **4.3 km/h**.
