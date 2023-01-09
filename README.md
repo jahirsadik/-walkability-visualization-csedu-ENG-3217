@@ -8,7 +8,7 @@
 - We took a total of **1665 photos**.
 - **The Marathon Walker:** Monon (walked a maximum of 19.2 km)
 - **The Journalist:** Abir (took a maximum of 78 photos)
-- **The Passionate Walker:** Radi, Fawwaz, Deeparghya (first group to finish walkability)
+- **The Passionate Walker:** Radi, Deeparghya, Fawwaz (first group to finish walkability)
 - **The Mysterious Walker:** Jawad, Mridul (teleported from Dhaka to Tangail)
 - **The Morning Walker:** Sakib Hassan (started walking at 6:37 am)
 - **The Night Walker:** Swad (walked until 12:23 am)
