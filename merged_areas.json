@@ -1,0 +1,83 @@
+{
+  "Dhanmondi": [
+    "Dhanmondi",
+    "West Dhanmondi",
+    "Sobhanbag",
+    "Hazaribagh",
+    "Rayer Bazar",
+    "Jigatola",
+    "Pilkhana",
+    "Lalmatia"
+  ],
+  "Uttara": [
+    "Diabari",
+    "Sector 6",
+    "Sector 4",
+    "Uttara",
+    "Sector 9",
+    "Azampur",
+    "Baunia"
+  ],
+  "Dhaka University Campus Area": ["Gulistan", "Shahbag", "Azimpur"],
+  "Gulshan/Banani": ["Gulshan"],
+  "Dhaka Cantonment": [
+    "Manikdi",
+    "Bhashantek",
+    "Dhaka Cantonment",
+    "Kafrul",
+    "Matikata"
+  ],
+  "Mirpur": [
+    "Mirpur 12",
+    "Mirpur",
+    "Shewrapara",
+    "Monipur",
+    "Sher-E-Bangla Nagar",
+    "Shyamoli",
+    "Mirpur 6",
+    "Mirpur 7",
+    "Borobagh",
+    "Shah Ali Bagh",
+    "Tolarbag",
+    "Paikpara",
+    "Nobaberbag",
+    "Bishil",
+    "Kazipara",
+    "Pirerbag",
+    "Mirpur 11"
+  ],
+  "Farmgate": ["Agargaon", "Tejgaon", "Kawran Bazar"],
+  "Khilgaon": [
+    "Khilgaon",
+    "Shahjahanpur",
+    "Goran",
+    "Madartek",
+    "Bashabo",
+    "Saydabad",
+    "South Banasree"
+  ],
+  "Narayanganj": ["Narayanganj", "Fatullah"],
+  "Malibagh": ["Hajipara", "Malibagh", "Shahidbagh", "Rajarbag"],
+  "Mohammadpur": ["Mohammadpur"],
+  "Baridhara": ["Baridhara", "Joar Sahara"],
+  "Ramna": ["Ramna", "Shiddheswari", "Shantinagar", "Segunbagicha", "Mogbazar"],
+  "Bashundhara Residential Area": [
+    "Bashundhara Residential Area",
+    "Solmaid",
+    "Kuril"
+  ],
+  "Kolabagan": ["Kathalbagan", "Panthopath", "Kolabagan"],
+  "Motijheel": ["Motijheel", "Kamalapur", "Tikatuli", "Gopibag"],
+  "Paltan": ["Noya Paltan", "Fakirapool"],
+  "Airport Area": ["Dokkhin Khan", "Khilkhet"],
+  "Puran Dhaka": [
+    "Bongshal",
+    "Armanitola",
+    "Tanti bazar",
+    "Nawabpur",
+    "Dayaganj",
+    "Narinda",
+    "Bokshibazar"
+  ],
+  "Pallabi": ["Pallabi", "Mirpur Cantonment"]
+}
